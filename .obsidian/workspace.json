@@ -11,32 +11,13 @@
             "id": "26a9f27d9615476a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Todo"
-            }
-          },
-          {
-            "id": "b996d24d782317aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hypothesis Testing.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hypothesis Testing"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,12 +199,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b996d24d782317aa",
+  "active": "26a9f27d9615476a",
   "lastOpenFiles": [
-    "P Value.md",
     "Todo.md",
-    "~$Reference Sheet (PS).tmp",
+    "Statistical Inference.md",
+    "Notes/Todo.md",
+    "Notes/Statistical Inference.md",
     "Hypothesis Testing.md",
+    "Notes/Random Variable.md",
+    "Notes/P Value.md",
+    "Notes/Hypothesis Testing.md",
+    "Notes",
+    "New folder",
+    "~$Reference Sheet (PS).tmp",
+    "P Value.md",
     "Images/Pasted image 20261102122346.png",
     "Images/Pasted image 20261102120923.png",
     "Images/Pasted image 20261102120633.png",
@@ -232,7 +221,6 @@
     "Images/Pasted image 20261102113214.png",
     "Images/Pasted image 20261102113154.png",
     "Images/Pasted image 20261102112230.png",
-    "Statistical Inference.md",
     "Random Variable.md",
     "Images/Pasted image 20261102112105.png",
     "Images/Pasted image 20261102112015.png",
@@ -243,8 +231,6 @@
     "Labsheets/Lab Sheet 07/Lab Sheet 07/Labsheet 07.pdf",
     "Labsheets/Lab Sheet 07/Lab Sheet 07",
     "Labsheets/Lab Sheet 07",
-    "Labsheets/Lab Sheet 07.zip",
-    "Labsheets/Unconfirmed 848325.crdownload",
     "Notes/Lab Sheet 01 - Code.md",
     "Notes/Artificial Neural Networks/Early Stopping.md",
     "Notes/Artificial Neural Networks/Adding Dropouts.md",
@@ -261,10 +247,6 @@
     "Notes/Artificial Neural Networks/Bias.md",
     "Notes/Artificial Neural Networks/Single-Weight View of Gradient Descent.md",
     "Notes/Artificial Neural Networks/Signum Function.md",
-    "Notes/Artificial Neural Networks/Signum vs Sigmoid Function.md",
-    "Instructions for AI/Instructions for Creating .md files.md",
-    "Notes/Artificial Neural Networks/Strength and Direction of Connection.md",
-    "Instructions for AI/LaTeX Formatting Instructions.md",
     "Ideaboard.canvas",
     "Matthew - Family Tree.canvas",
     "Family Tree.canvas"
