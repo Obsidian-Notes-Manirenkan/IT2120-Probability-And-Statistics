@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1df6ec2ae18d1732",
+        "id": "069559cf017349bf",
         "type": "tabs",
         "children": [
           {
-            "id": "26a9f27d9615476a",
+            "id": "6cc9a4595f46adfb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Todo"
             }
           }
         ]
@@ -199,16 +203,21 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "26a9f27d9615476a",
+  "active": "6cc9a4595f46adfb",
   "lastOpenFiles": [
-    "Todo.md",
-    "Statistical Inference.md",
-    "Notes/Todo.md",
-    "Notes/Statistical Inference.md",
-    "Hypothesis Testing.md",
+    "Instructions for AI/LaTeX Formatting Instructions.md",
+    "Instructions for AI/Instructions for Creating .md files.md",
+    "Instructions for AI",
     "Notes/Random Variable.md",
+    "Todo.md",
     "Notes/P Value.md",
+    "Notes/~$Reference Sheet (PS).tmp",
+    "Tutorials/Tutotrial 04 (Random Variable).pdf",
+    "Tutorials/Tutotrial 03 (Probability).pdf",
+    "Notes/Statistical Inference.md",
     "Notes/Hypothesis Testing.md",
+    "Statistical Inference.md",
+    "Hypothesis Testing.md",
     "Notes",
     "New folder",
     "~$Reference Sheet (PS).tmp",
@@ -227,10 +236,6 @@
     "Images",
     "Labsheets/Lab Sheet 07/student_success_expanded_balanced.csv",
     "Labsheets/Lab Sheet 07/Labsheet 07.pdf",
-    "Labsheets/Lab Sheet 07/Lab Sheet 07/student_success_expanded_balanced.csv",
-    "Labsheets/Lab Sheet 07/Lab Sheet 07/Labsheet 07.pdf",
-    "Labsheets/Lab Sheet 07/Lab Sheet 07",
-    "Labsheets/Lab Sheet 07",
     "Notes/Lab Sheet 01 - Code.md",
     "Notes/Artificial Neural Networks/Early Stopping.md",
     "Notes/Artificial Neural Networks/Adding Dropouts.md",
@@ -246,7 +251,6 @@
     "Notes/Artificial Neural Networks/Batch Perceptron Algorithm.md",
     "Notes/Artificial Neural Networks/Bias.md",
     "Notes/Artificial Neural Networks/Single-Weight View of Gradient Descent.md",
-    "Notes/Artificial Neural Networks/Signum Function.md",
     "Ideaboard.canvas",
     "Matthew - Family Tree.canvas",
     "Family Tree.canvas"
