@@ -1,0 +1,4 @@
+- [ ] [[Random Variable]]
+- [ ] [[Statistical Inference]]
+- [ ] [[Hypothesis Testing]]
+- [ ] [[P Value]]
