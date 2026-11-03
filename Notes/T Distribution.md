@@ -1,0 +1,2 @@
+- A normal bell-shaped graph like Normal Distribution
+- Have parameter --> **$(n-1)$ degrees of freedom**
